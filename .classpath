@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/java/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/beautyeye_v3.6_utf8/lib/ninepatch4j.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets2_for_be_lnf/lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/AnimatedTransitions.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/AppFramework.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/holidays__V1.0.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/jardiff.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/jhcore__V1.0.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/jlfgr__V1.0.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/jnlp.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/jnlp-servlet.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/swing-worker.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/swingx.jar"/>
+	<classpathentry kind="lib" path="F:/beautyeye-3.6/src_all/SwingSets3_for_be_lnf/lib/TimingFramework.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
